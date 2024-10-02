@@ -5,6 +5,13 @@
 }
 
 body {
+    background-image: url('background.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+body {
     font-family: 'Times New Roman', sans-serif , sans-serif;
     background-color: #80c4cd; 
     display: flex;
