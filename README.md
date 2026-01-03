@@ -6,8 +6,8 @@ Built using HTML, CSS, and JavaScript, this app allows users to record daily spe
 
 ## 🚀 Live Demo
 
-# Add your GitHub Pages link here
-- Example: https://your-username.github.io/Expense_Tracker_WebApp/
+# You can try it out here -
+- Live Link : https://your-username.github.io/Expense_Tracker_WebApp/
 
 
 ## 📌 Features & Functionality
